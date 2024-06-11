@@ -7,6 +7,7 @@ app = FastAPI()
 def read_fear_and_greed():
     data = get_fear_and_greed_index()
     if data:
+        print(data)
         return data
     else:
         return {"error": "Failed to fetch data"}
