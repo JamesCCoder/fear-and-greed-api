@@ -1,0 +1,3 @@
+fastapi
+uvicorn
+fear-and-greed
