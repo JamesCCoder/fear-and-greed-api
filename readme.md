@@ -1,1 +1,1 @@
-index
+fear and greed index from CNN
